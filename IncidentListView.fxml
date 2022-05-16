@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox prefHeight="900.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="IncidentViewer">
+   <children>
+      <SplitPane dividerPositions="0.3157894736842105" orientation="VERTICAL" prefHeight="900.0" prefWidth="1200.0">
+         <items>
+            <BorderPane prefHeight="168.0" prefWidth="1198.0">
+               <center>
+                  <ListView id="filtersView" fx:id="filtersView" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+               </center>
+               <top>
+                  <AnchorPane prefHeight="25.0" prefWidth="1058.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <MenuBar layoutX="-2.0" layoutY="1.0" prefHeight="25.0" prefWidth="1209.0">
+                          <menus>
+                            <Menu mnemonicParsing="false" text="File">
+                              <items>
+                                    <MenuItem id="refresh" fx:id="refresh" mnemonicParsing="false" onAction="#refresh" text="Refresh" />
+                                <MenuItem id="exit" fx:id="exit" mnemonicParsing="false" onAction="#exit" text="Close" />
+                              </items>
+                            </Menu>
+                            <Menu mnemonicParsing="false" text="Help">
+                              <items>
+                                <MenuItem id="about" fx:id="about" mnemonicParsing="false" onAction="#about" text="About" />
+                              </items>
+                            </Menu>
+                          </menus>
+                        </MenuBar>
+                     </children>
+                  </AnchorPane>
+               </top>
+               <left>
+                  <AnchorPane prefHeight="150.0" prefWidth="10.0" BorderPane.alignment="CENTER" />
+               </left>
+               <bottom>
+                  <AnchorPane prefHeight="25.0" prefWidth="1058.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <Button id="removeFilter" fx:id="remove" layoutX="1051.0" mnemonicParsing="false" onAction="#removeFilter" text="Remove Selected Filter" />
+                        <Button id="addFilter" fx:id="addFilter" layoutX="841.0" mnemonicParsing="false" onAction="#addFilter" text="Add New Filter" />
+                        <Button id="run" fx:id="runButton" layoutX="936.0" mnemonicParsing="false" onAction="#runFilters" text="Run Current Filters" />
+                        <TextField id="filterText" fx:id="filterText" layoutX="286.0" prefHeight="25.0" prefWidth="412.0" />
+                        <ChoiceBox id="filterColumn" fx:id="filterColumn" layoutX="11.0" prefWidth="150.0" />
+                        <ChoiceBox id="filterType" fx:id="filterType" layoutX="161.0" prefHeight="25.0" prefWidth="125.0" />
+                     </children>
+                  </AnchorPane>
+               </bottom>
+               <right>
+                  <AnchorPane prefHeight="150.0" prefWidth="10.0" BorderPane.alignment="CENTER" />
+               </right>
+            </BorderPane>
+            <BorderPane prefHeight="210.0" prefWidth="598.0">
+               <center>
+                  <TableView id="incidentTable" fx:id="incidentTable" prefHeight="374.0" prefWidth="598.0" BorderPane.alignment="CENTER" />
+               </center>
+               <top>
+                  <AnchorPane prefHeight="10.0" prefWidth="598.0" BorderPane.alignment="CENTER" />
+               </top>
+               <left>
+                  <AnchorPane prefHeight="212.0" prefWidth="10.0" BorderPane.alignment="CENTER" />
+               </left>
+               <right>
+                  <AnchorPane prefHeight="398.0" prefWidth="10.0" BorderPane.alignment="CENTER" />
+               </right>
+               <bottom>
+                  <AnchorPane prefHeight="25.0" prefWidth="598.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <Button layoutX="1049.0" mnemonicParsing="false" onAction="#openSelected" text="Open Selected Incident" />
+                     </children>
+                  </AnchorPane>
+               </bottom>
+            </BorderPane>
+         </items>
+      </SplitPane>
+   </children>
+</VBox>

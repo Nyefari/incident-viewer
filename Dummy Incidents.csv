@@ -1,0 +1,324 @@
+﻿"sys_created_on","number","state","short_description","caller_id.email","comments","category","u_choice_2","close_code","close_notes","closed_at","comments_and_work_notes","description","incident_state","made_sla","resolved","u_choice_1","subcategory","sys_updated_on","sys_updated_by","sys_mod_count","work_notes","watch_list","u_city","assigned_to.email","assignment_group.name","closed_by.email","cmdb_ci.name","active","location","opened_by.email","u_ref_category.u_name","u_ref_subcategory.u_name","resolved_by.email"
+"42375.2422","INC0094198","Closed","500 something went wrong","first.last@company.com","31/08/2021 02:42:54 PM - Donovan Pate (Additional comments)
+Guide sent to your email. Please let me know if you have any problems.
+
+","Computer Hardware","All State Cities","","Account was used where account is not designed to be used. Issue is not a valid issue","44264.56528","31/08/2021 02:42:54 PM - Donovan Pate (Additional comments)
+Guide sent to your email. Please let me know if you have any problems.
+
+","Please unlock First Last Company account.
+
+________________________________
+From: First Last <info.location@company.com>
+Sent: Tuesday, August 31, 2021 11:59 AM
+To: Manager Person <manager.person@company.com>
+Subject: New Message
+
+[Location Name]
+
+** REPLIES WILL NOT POST TO SOFTWARE **
+
+The following message was taken:
+
+From: First Last
+To: Manager Person
+Date: 8/31/2021 11:59 AM
+Message:
+Ok so I still cant get into anything. Who do I contact to get my account unlocked?
+_______________________
+First Last
+Location Name
+123 Address Rd
+City, USA 00000
+333-222-9999 (phone)
+123-456-7890 (fax)
+www.ComPaNy.com
+Sent using Software
+Designed by OtherFirst OtherLast, Credentials
+","Closed","TRUE","44264.56528","Alabama","SoftwareName","42979.15903","FirstName.LastName","0","","","Reno","FirstName.LastName@company.com","Security","FirstName.LastName@company.com","USUSALTXXXXX","FALSE","City","first.last@company.com","IT USE ONLY","TESTING","FirstName.LastName@company.com"
+"30/12/2016  11:05:21 PM","7402","Closed","computer saying no boot device","madeup@gmail.com","01/09/2021 01:05:20 PM – Systems  Administrator (Additional comments)
+Hi First - Unfortunately this is as far as company IT is able to assist. I'm sending this info over to our website-related team to investigate further. I'm marking this ticket resolved as your initial issue appears to be fixed and the website-related team will track the new issue separately.
+
+01/09/2021 12:29:36 PM - First Last (Additional comments)
+Hi SysAdmin - I can make it farther in the website, but cannot get to an page via search.  This is what I see: Forbidden
+You are not entitled to access this resource
+
+For assistance please contact your organisation administrator.
+
+01/09/2021 10:04:14 AM – Systems Administrator (Additional comments)
+Hi First! - This should be resolved. Please close and reopen your browser before signing in again and let us know if you have any further issues. I'm marking this resolved but if you have any further issue you can still respond here and I'll follow up with you.
+
+01/09/2021 09:20:58 AM – Support Person (Additional comments)
+OK that's perfect information Thank you!
+
+
+
+I'm going to have to get this up to the sysadmins so they can double check that app assignment for your account in SingleSignOn. Thank you!
+
+01/09/2021 05:51:53 AM – First Last (Additional comments)
+When I click Website, I see this:
+
+[cid:35e09339-04a3-480e-ae78-9b38faa2b391]
+
+Then I click the SSO option and I see this and cannot get any further:
+
+[cid:851ff8ff-bb9b-49c0-ad9f-666abcb07460]
+
+________________________________
+From: Company IT Support <company@ticketingsystem.com>
+Sent: Tuesday, August 31, 2021 5:38 PM
+To: First M. Last <first.last@bluepearlvet.com>
+Subject: Incident INC0103809 -- comments added
+
+
+
+
+Request Updated!
+
+
+[cid:Company_Email_Signature_Logo.pngx@SNC.gibberish]
+
+
+
+Your Incident INC0103809 has been updated with new comments. If you reply to this email, your reply will be included in the ticket text.
+
+Short description: can't access Website
+Click here to view: INC0103809<really.long.outlook.safelink.url>
+________________________________
+Comments:
+________________________________
+31/08/2021 02:37:30 PM - Support Person (Additional comments)
+Hi FirstName!
+
+What kind of message/webpage are you getting? A screenshot would be very helpful in knowing where the issue is occurring. Thank you!
+
+Ref:MSG1275963
+
+31/08/2021 02:37:30 PM - Support Person (Additional comments)
+Hi FirstName!
+
+
+
+What kind of message/webpage are you getting? A screenshot would be very helpful in knowing where the issue is occurring. Thank you!
+","Computer Software","Bremerton","Not Solved(Not Currently Possible)","","30/12/2017  11:05:21 PM","01/09/2021 01:05:20 PM – Systems  Administrator (Additional comments)
+Hi First - Unfortunately this is as far as company IT is able to assist. I'm sending this info over to our website-related team to investigate further. I'm marking this ticket resolved as your initial issue appears to be fixed and the website-related team will track the new issue separately.
+
+01/09/2021 12:29:36 PM - First Last (Additional comments)
+Hi SysAdmin - I can make it farther in the website, but cannot get to an page via search.  This is what I see: Forbidden
+You are not entitled to access this resource
+
+For assistance please contact your organisation administrator.
+
+01/09/2021 10:04:14 AM – Systems Administrator (Work notes)
+Initial app assignment in SSO failed due to a sync issue. Retried app assignment though SSO admin portal and confirmed that Website is now assigned to First.
+
+01/09/2021 10:04:14 AM – Systems Administrator (Additional comments)
+Hi First! - This should be resolved. Please close and reopen your browser before signing in again and let us know if you have any further issues. I'm marking this resolved but if you have any further issue you can still respond here and I'll follow up with you.
+
+01/09/2021 09:20:58 AM – Support Person (Additional comments)
+OK that's perfect information Thank you!
+
+
+
+I'm going to have to get this up to the sysadmins so they can double check that app assignment for your account in SingleSignOn. Thank you!
+
+01/09/2021 05:51:53 AM – First Last (Additional comments)
+When I click Website, I see this:
+
+[cid:35e09339-04a3-480e-ae78-9b38faa2b391]
+
+Then I click the SSO option and I see this and cannot get any further:
+
+[cid:851ff8ff-bb9b-49c0-ad9f-666abcb07460]
+
+________________________________
+From: Company IT Support <company@ticketingsystem.com>
+Sent: Tuesday, August 31, 2021 5:38 PM
+To: First M. Last <first.last@bluepearlvet.com>
+Subject: Incident INC0103809 -- comments added
+
+
+
+
+Request Updated!
+
+
+[cid:Company_Email_Signature_Logo.pngx@SNC.gibberish]
+
+
+
+Your Incident INC0103809 has been updated with new comments. If you reply to this email, your reply will be included in the ticket text.
+
+Short description: can't access Website
+Click here to view: INC0103809<really.long.outlook.safelink.url>
+________________________________
+Comments:
+________________________________
+31/08/2021 02:37:30 PM - Support Person (Additional comments)
+Hi FirstName!
+
+What kind of message/webpage are you getting? A screenshot would be very helpful in knowing where the issue is occurring. Thank you!
+
+Ref:MSG1275963
+
+31/08/2021 02:37:30 PM - Support Person (Additional comments)
+Hi FirstName!
+
+
+
+What kind of message/webpage are you getting? A screenshot would be very helpful in knowing where the issue is occurring. Thank you!
+","","Closed","TRUE","30/12/2017  11:05:21 PM","Alaska","Google Chrome","44201.58472","FirstNameOnly","13","01/09/2021 10:04:14 AM – Systems Administrator (Work notes)
+Initial app assignment in SSO failed due to a sync issue. Retried app assignment though SSO admin portal and confirmed that Website is now assigned to First.
+","FirstName LastName, First2 Last2, First3 Last3","City","support.person@company.co","Systems Administrators","support.person@company.co","RMRDMIPAD12345","FALSE","Bangkok","madeup@gmail.com","Finance","Reimbursements","support.person@company.co"
+"44201.08472","apri","Closed","lorem ipsum","bill.gates@windows.msoft","","inquiry","New York","","To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles
+And by opposing end them. To die—to sleep,
+No more; and by a sleep to say we end
+The heart-ache and the thousand natural shocks
+That flesh is heir to: 'tis a consummation
+Devoutly to be wish'd. To die, to sleep;
+To sleep, perchance to dream—ay, there's the rub:
+For in that sleep of death what dreams may come,
+When we have shuffled off this mortal coil,
+Must give us pause—there's the respect
+That makes calamity of so long life.
+For who would bear the whips and scorns of time,
+Th'oppressor's wrong, the proud man's contumely,
+The pangs of dispriz'd love, the law's delay,
+The insolence of office, and the spurns
+That patient merit of th'unworthy takes,
+When he himself might his quietus make
+With a bare bodkin? Who would fardels bear,
+To grunt and sweat under a weary life,
+But that the dread of something after death,
+The undiscovere'd country, from whose bourn
+No traveller returns, puzzles the will,
+And makes us rather bear those ills we have
+Than fly to others that we know not of?
+Thus conscience doth make cowards of us all,
+And thus the native hue of resolution
+Is sicklied o'er with the pale cast of thought,
+And enterprises of great pith and moment
+With this regard their currents turn awry
+And lose the name of action.","44201.58472","","Longer Description of issue. ","Closed","FALSE","44201.58472","Arizona","Printer Not Printing","31/10/2021 12:58:07 PM","System","5","","Only One Name","Apparently This Was Broken Without Us Noticing","youget.theidea@wherever.io","Support Desk - Company Name","youget.theidea@wherever.io","locstation-01","FALSE","Shanghai","bill.gates@windows.msoft","Google Apps","Gmail","youget.theidea@wherever.io"
+"31/08/2021 12:58:07 PM","Check","Closed","","","","","London","","","31/10/2021 12:58:07 PM","","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.","Closed","FALSE","31/10/2021 12:58:07 PM","Arkansas","Other","44201.58472","NeverBlank","999999","","Miles Morales","","","T2 Support Desk - Company Name","","LOC-SERVER","FALSE","","","O365","Outlook","system@ticketingsystem.com"
+"31/10/2016 11:35:01 AM","INC0015074","Closed","insert short, description here, with commas for pain","donovanpate@student.olympic.edu","01/09/2021 05:55:55 AM – FirstName LastName (Additional comments)
+I checked again this morning and didn’t see redacted. Did you redacted?
+
+31/08/2021 02:22:52 PM – OtherFirst OtherLast (Additional comments)
+I haven't redacted recently.
+
+
+OtherFirst OtherLast
+JobTitle
+Company name longform
+555.555.5555 Bremerton, WA
+company.com
+[cid:83450020-61f6-4ac3-9472-351b83c64cfd]
+________________________________
+From: IT Support <company@ticketingsystem.com>
+Sent: Tuesday, April 11th, 2021 1:12:34 PM
+To: OtherFirst OtherLast  <otherfirst.otherlast@company.com>
+Subject: Incident INC0000000 -- comments added
+
+
+
+
+Request Updated!
+
+
+[cid:Company_Email_Signature_Logo.pngx@SNC.gibberish]
+
+
+
+Your Incident INC0000000 has been updated with new comments. If you reply to this email, your reply will be included in the ticket text.
+
+Short description: disk full message
+Click here to view: INC0000000<really.long.outlook.email.link>
+________________________________
+Comments:
+________________________________
+11/04/2021 01:11:01 PM – FirstName LastName (Additional comments)
+I checked your directory and you must've deleted a bunch of items because redacted.
+
+Ref:MSG1275821
+
+11/04/2021 01:11:01 PM – FirstName LastName (Additional comments)
+I checked your directory and you must've deleted a bunch of items because redacted.
+","Security","","Duplicate Ticket","To be, or not to be, that is the question:
+Whether 'tis nobler in the mind to suffer
+The slings and arrows of outrageous fortune,
+Or to take arms against a sea of troubles
+And by opposing end them. To die—to sleep,
+No more; and by a sleep to say we end
+The heart-ache and the thousand natural shocks
+That flesh is heir to: 'tis a consummation
+Devoutly to be wish'd. To die, to sleep;
+To sleep, perchance to dream—ay, there's the rub:
+For in that sleep of death what dreams may come,
+When we have shuffled off this mortal coil,
+Must give us pause—there's the respect
+That makes calamity of so long life.
+For who would bear the whips and scorns of time,
+Th'oppressor's wrong, the proud man's contumely,
+The pangs of dispriz'd love, the law's delay,
+The insolence of office, and the spurns
+That patient merit of th'unworthy takes,
+When he himself might his quietus make
+With a bare bodkin? Who would fardels bear,
+To grunt and sweat under a weary life,
+But that the dread of something after death,
+The undiscovere'd country, from whose bourn
+No traveller returns, puzzles the will,
+And makes us rather bear those ills we have
+Than fly to others that we know not of?
+Thus conscience doth make cowards of us all,
+And thus the native hue of resolution
+Is sicklied o'er with the pale cast of thought,
+And enterprises of great pith and moment
+With this regard their currents turn awry
+And lose the name of action.","42411.48265","01/09/2021 05:55:55 AM – FirstName LastName (Additional comments)
+I checked again this morning and didn’t see redacted. Did you redacted?
+
+31/08/2021 02:22:52 PM – OtherFirst OtherLast (Additional comments)
+I haven't redacted recently.
+
+
+OtherFirst OtherLast
+JobTitle
+Company name longform
+555.555.5555 Bremerton, WA
+company.com
+[cid:83450020-61f6-4ac3-9472-351b83c64cfd]
+________________________________
+From: IT Support <company@ticketingsystem.com>
+Sent: Tuesday, April 11th, 2021 1:12:34 PM
+To: OtherFirst OtherLast  <otherfirst.otherlast@company.com>
+Subject: Incident INC0000000 -- comments added
+
+
+
+
+Request Updated!
+
+
+[cid:Company_Email_Signature_Logo.pngx@SNC.gibberish]
+
+
+
+Your Incident INC0000000 has been updated with new comments. If you reply to this email, your reply will be included in the ticket text.
+
+Short description: disk full message
+Click here to view: INC0000000<really.long.outlook.email.link>
+________________________________
+Comments:
+________________________________
+11/04/2021 01:11:01 PM – FirstName LastName (Additional comments)
+I checked your directory and you must've deleted a bunch of items because redacted.
+
+Ref:MSG1275821
+
+11/04/2021 01:11:01 PM – FirstName LastName (Additional comments)
+I checked your directory and you must've deleted a bunch of items because redacted.
+","","Closed","","42411.48265","Connecticut","","31/10/2021 12:58:07 PM","CannotBlank","123","","","","Sometimes.blank@never.blank","","Sometimes.blank@never.blank","","FALSE","Shouldn't be blank if u_choice_2 is blank","donovanpate@student.olympic.edu","","","Sometimes.blank@never.blank
