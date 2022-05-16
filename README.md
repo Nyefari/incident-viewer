@@ -1,9 +1,9 @@
-# FinalCS2
+# Historical Incident Viewer
 
 This Repository contains the code written by Donovan Pate for the final project in CS 143 as taught by Dr. Adrian Veliz at Olympic College in Winter Quarter 2022.
 
 The primary project output is a gui which allows the view of historical ticketing data for my place of work. The ticketing data is contained within a mysql database.
-A database is used as there will be around 20000 incidents in the production version of this database at work.
+A database is used as there will be around 90000 incidents in the production version of this database at work.
 
 ## Contents
 
@@ -76,12 +76,6 @@ Add filters as you wish and run the filters to navigate to an incident, then sel
 ## Issues encountered:
 
 The JavaFX SceneBuilder doesn't seem to have the accessibilityText property in it.
-
-For some reason no matter how many times I reinstall the jdk I don't have javadoc on my computer. Not sure what's up with that. As there isn't a github action to run it I apologize if there are javadoc errors.
-
-I also can't get jacoco working. All of the documentation I'm finding involves using the Eclipse IDE, or ant and I just don't have time left to figure that out right now. Sorry. I wish I hadn't saved testing for the final day.
-
-I tried installing Eclipse to get a jacoco, but I can't get it to run anything other than the LoadIncidents, and when it runs that one it has no idea what StringProperties are even though it will compile and run up to that point just fine.
 
 ## Citations
 
